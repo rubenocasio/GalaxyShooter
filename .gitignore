@@ -9,6 +9,7 @@
 *.user
 *.userosscache
 *.sln.docstates
+*.csproj
 Packages
 Library
 Assets/Animations
