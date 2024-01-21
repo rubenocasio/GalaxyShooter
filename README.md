@@ -4,7 +4,9 @@ Welcome to my project repository for the Unity Game Development Course in C#. Th
 
 ## About the Course
 
-[Course Description]
+This course, "The Ultimate Guide to Game Development with Unity (Official)," is designed to teach game development with Unity, emphasizing practical skills in C#. It covers beginner to intermediate C# concepts and game development techniques, including collision detection, player movements, creating power-ups, and basic AI behavior for enemies. The course also delves into enhancing game aesthetics with shaders and particle effects, and teaches how to deploy games across various platforms. This comprehensive guide, with its extensive on-demand video content and resources, is aimed at individuals eager to master game development using Unity.
+
+For a more detailed description, you can visit the course page on [Udemy](https://www.udemy.com/share/101WZg3@TtuuUulr014rLx7Mv9EGy__MEk11V4kpGABwc5C0921jNIwWF0-1A8bkYpc2iw==/).
 
 ## Projects
 
@@ -16,7 +18,7 @@ Welcome to my project repository for the Unity Game Development Course in C#. Th
 
 - **Unity**: A powerful game development platform used for building high-quality 3D and 2D games, deployed across mobile, desktop, VR/AR, consoles, or the Web.
 - **C#**: The programming language used for developing the game logic in Unity.
-- **[Any other tools or libraries used]**
+- **Visual Studio**
 
 ## Personal Development
 
