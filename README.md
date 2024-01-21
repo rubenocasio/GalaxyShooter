@@ -1,4 +1,4 @@
-# SpaceDefender - Unity Game Development in C#
+# Galaxy Shooter - The Ultimate Guide to Game Development with Unity
 
 Welcome to my project repository for the Unity Game Development Course in C#. This course is a journey through learning Unity and C# to create engaging and interactive games. SpaceDefender is one of the projects I am developing as part of this learning process.
 
@@ -8,7 +8,7 @@ Welcome to my project repository for the Unity Game Development Course in C#. Th
 
 ## Projects
 
-### SpaceDefender
+### Galaxy Shooter
 - **Description**: [Brief description of SpaceDefender, its gameplay, and objectives.]
 - **Key Learnings**: [Discuss what you learned while developing this project, such as specific game development techniques or programming concepts.]
 
